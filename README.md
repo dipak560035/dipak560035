@@ -43,7 +43,7 @@ A full-stack e-commerce app
 ✔ JWT Authentication  
 ✔ Product CRUD  
 ✔ Cart + Orders  
-👉 *Add your GitHub link here after uploading project*
+
 
 ---
 
