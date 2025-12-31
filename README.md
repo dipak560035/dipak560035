@@ -50,7 +50,7 @@ A full-stack e-commerce app
 ### 📝 **Blog App (MERN)**
 ✔ Create / Edit / Delete blog posts  
 ✔ MongoDB + Express API  
-👉 *Add link after uploading*
+
 
 ---
 
