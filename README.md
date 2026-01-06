@@ -70,19 +70,9 @@ A full-stack e-commerce app
 
 ---
 
-# 🔥 Top Used Technologies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipak560035&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 # 📩 Contact Me
 - 📧 **Email:** dipaksah2070@gmail.com  
 - 🌐 **GitHub:** https://github.com/dipak560035  
 
 ---
-
-<p align="center">
-  ⭐ If you like my profile, consider giving a star to my repositories!
-</p>
