@@ -12,8 +12,7 @@
 - 🔥 MERN Stack Developer focused on **real world projects**
 - 💡 Passionate about **Backend (Node.js + MongoDB)**
 - 📚 Currently improving: **Authentication, APIs, JWT, Mongoose**
-- 🎯 Goal: Get **MERN Internship / Junior Developer role**
-- 📍 Based in Nepal
+- 📍 Based in kathmandu Nepal
 
 ---
 
