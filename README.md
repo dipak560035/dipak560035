@@ -68,7 +68,7 @@ Full-featured online store with secure authentication & admin capabilities
 
 #### 📝 **MERN Blog Application**  
 Modern blogging platform with rich text editing & user profiles  
-*(Add live link if available)*
+
 
 **Key Features**  
 - Create, Edit, Delete blog posts  
