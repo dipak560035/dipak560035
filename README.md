@@ -81,8 +81,6 @@ Modern blogging platform with rich text editing & user profiles
 
 **Tech Stack** → React • Node.js • Express • MongoDB
 
-*(Pin 2–3 best repositories on your profile for maximum visibility)*
-
 ---
 
 ### 📬 Let's Connect
