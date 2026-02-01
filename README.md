@@ -9,7 +9,6 @@
   <!-- Visitor badge + streak -->
   <img src="https://komarev.com/ghpvc/?username=dipak560035&label=Profile+Views&color=6b7280&style=flat-square" alt="Profile views" />
   &nbsp;&nbsp;
-  <a href="https://github.com/dipak560035"><img src="https://img.shields.io/github/followers/dipak560035?label=Follow&style=social" alt="GitHub followers" /></a>
 
 </div>
 
@@ -63,7 +62,7 @@ Git • GitHub • VS Code • Postman • Vercel • Responsive Design
 #### 🛒 **MERN E-Commerce Platform**  
 Full-featured online store with secure authentication & admin capabilities  
 🔗 [Live Demo](https://mern-frontened-git-ui-dipak560035s-projects.vercel.app)  
-🔗 [Frontend Repo](https://github.com/dipak560035/MernFrontened/tree/ui) | [Backend Repo](https://github.com/dipak560035/rtk-query/tree/backend-v2) *(add backend link if separate)*
+🔗 [Frontend Repo](https://github.com/dipak560035/MernFrontened/tree/ui) | [Backend Repo](https://github.com/dipak560035/rtk-query/tree/backend-v2)
 
 **Key Features**  
 - JWT-based Authentication & Authorization  
@@ -113,4 +112,4 @@ Modern blogging platform with rich text editing & user profiles
 
 ---
 
-Thanks for visiting! Feel free to ⭐ repositories if you find them useful.
+
