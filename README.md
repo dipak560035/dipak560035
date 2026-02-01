@@ -38,6 +38,7 @@
 # 📂 Featured Projects
 
 ### 🛒 **E-Commerce Website (MERN)**
+https://mern-frontened-git-ui-dipak560035s-projects.vercel.app?_vercel_share=gyUcgwjdDEISkScs7qVUwVw4rFKliMYr
 A full-stack e-commerce app  
 ✔ JWT Authentication  
 ✔ Product CRUD  
