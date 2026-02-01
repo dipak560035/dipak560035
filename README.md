@@ -90,11 +90,11 @@ Modern blogging platform with rich text editing & user profiles
   <a href="https://github.com/dipak560035">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Add LinkedIn if you have -->
+  
   <!-- &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/dipak-sah-bab95a202?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPpOBOmyaRY6hsrITLkv4Jw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> -->
+  </a>
 </p>
 
 <p align="center">
