@@ -51,9 +51,6 @@ Git • GitHub • VS Code • Postman • Vercel • Responsive Design
 <!-- <div align="center">
   <br/>
   <!-- Optional: keep top languages if you like (shows skills, no commit numbers) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipak560035&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=commits" alt="Top Languages" />
-</div> -->
-
 ---
 
 ### 🌟 Featured Projects
