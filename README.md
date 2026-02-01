@@ -42,18 +42,17 @@ Git • GitHub • VS Code • Postman • Vercel • Responsive Design
 
 ---
 
-### 🔥 GitHub Stats & Streak
+### 🔥 GitHub Streak
 
 <div align="center">
-  <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=dipak560035&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->
-
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=dipak560035&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=dipak560035&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipak560035&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+  <!-- Optional: keep top languages if you like (shows skills, no commit numbers) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipak560035&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=commits" alt="Top Languages" />
+</div> -->
 
 ---
 
