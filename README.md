@@ -41,20 +41,10 @@ Node.js • Express.js • MongoDB • Mongoose • REST APIs • JWT Authentica
 Git • GitHub • VS Code • Postman • Vercel • Responsive Design
 
 ---
-
-## 🔥 GitHub Contribution Streak
-
-<div align="center">
-  <img
-    height="180"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dipak560035&theme=tokyonight&hide_border=true&date_format=j%20M%20Y&hide_total_contributions=true"
-    alt="GitHub Streak"
-  />
-</div>
-
-
-
-
+<section style="text-align:center;">
+  <h2>🟩 GitHub Contribution Calendar</h2>
+  <img src="https://ghchart.rshah.org/dipak560035" alt="GitHub Contribution Chart">
+</section>
 <!-- <div align="center">
   <br/>
   <!-- Optional: keep top languages if you like (shows skills, no commit numbers) -->
