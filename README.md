@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Dipak Sah</h1>
+  <h1>👋 Hi, I'm Dipak </h1>
   <h3>🚀 Passionate MERN Stack Developer from Kathmandu, Nepal</h3>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Scalable+Full-Stack+Apps;Node.js+%7C+React+%7C+MongoDB;Always+Learning+%26+Improving" alt="Typing SVG" />
