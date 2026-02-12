@@ -98,7 +98,7 @@ Modern blogging platform with rich text editing & user profiles
 </p>
 
 <p align="center">
-  <i>Looking forward to collaborating on exciting projects or discussing opportunities!</i> 🚀
+  <i>Looking forward to collaborating on exciting projects or discussing opportunities!</i> 
 </p>
 
 ---
