@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Tech Stac
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,nodejs,express,mongodb,git,github,vscode,postman&perline=7" alt="skills" />
