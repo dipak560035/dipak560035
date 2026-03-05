@@ -14,7 +14,7 @@
 
 ---
 
-### 🧑‍💻 About M
+### 🧑‍💻 About Me
 
 - 🔭 **Focused on** building real-world, production-ready MERN applications
 - 💡 **Passionate about** clean Backend architecture (Node.js + Express + MongoDB)
