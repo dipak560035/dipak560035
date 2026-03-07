@@ -66,7 +66,7 @@ Full-featured online store with secure authentication & admin capabilities
 
 **Tech Stack** → React • Node.js • Express • MongoDB • JWT • Tailwind
 
-#### 📝 **MERN Blog Application**  
+####  **MERN Blog Application**  
 Modern blogging platform with rich text editing & user profiles  
 
 
