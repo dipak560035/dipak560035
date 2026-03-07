@@ -50,7 +50,7 @@ Git • GitHub • VS Code • Postman • Vercel • Responsive Design
   <!-- Optional: keep top languages if you like (shows skills, no commit numbers) -->
 ---
 
-### 🌟 Featured Projects
+###  Featured Projects
 
 #### 🛒 **MERN E-Commerce Platform**  
 Full-featured online store with secure authentication & admin capabilities  
