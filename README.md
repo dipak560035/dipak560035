@@ -21,7 +21,7 @@
 -  Currently mastering: **Advanced Authentication (JWT, Refresh Tokens)**, **RESTful APIs**, **Mongoose best practices**, **Error handling & Security**
 -  Always learning: Next.js, TypeScript, Docker basics
 -  Based in **Kathmandu, Nepal**
-- 💬 Ask me about: MERN stack, full-stack development, project structuring
+-  Ask me about: MERN stack, full-stack development, project structuring
 
 ---
 
