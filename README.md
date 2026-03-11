@@ -54,7 +54,7 @@ Git • GitHub • VS Code • Postman • Vercel • Responsive Design
 
 #### 🛒 **MERN E-Commerce Platform**  
 Full-featured online store with secure authentication & admin capabilities  
-🔗 [Live Demo](https://mern-frontened-git-figma-design-dipak560035s-projects.vercel.app)  
+🔗 [Live Demo](https://mern-frontened.vercel.app)
 🔗 [Frontend Repo](https://github.com/dipak560035/MernFrontened/tree/figma-design) | [Backend Repo](https://github.com/dipak560035/rtk-query/tree/figma-backend)
 
 **Key Features**  
