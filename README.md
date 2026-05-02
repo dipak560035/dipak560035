@@ -41,10 +41,10 @@ Node.js • Express.js • MongoDB • Mongoose • REST APIs • JWT Authentica
 Git • GitHub • VS Code • Postman • Vercel • Responsive Design
 
 ---
-<section style="text-align:center;">
+<!-- <section style="text-align:center;">
   <h2>🟩 GitHub Contribution Calendar</h2>
   <img src="https://ghchart.rshah.org/dipak560035" alt="GitHub Contribution Chart">
-</section>
+</section> -->
 <!-- <div align="center">
   <br/>
   <!-- Optional: keep top languages if you like (shows skills, no commit numbers) -->
