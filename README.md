@@ -66,19 +66,21 @@ Full-featured online store with secure authentication & admin capabilities
 
 **Tech Stack** → React • Node.js • Express • MongoDB • JWT • Tailwind
 
-####  **MERN Blog Application**  
-Modern blogging platform with rich text editing & user profiles  
+#### 💬 Real-Time Chat Application (Socket.io)
+A full-stack real-time chat application with instant messaging, authentication, and live communication.
 
+🔗 Live Demo → [Chat App Live](https://chat-app-five-blue-45.vercel.app/?utm_source=chatgpt.com)  
+🔗 GitHub Repo → [Chat App Repo](https://github.com/dipak560035/chat-app?utm_source=chatgpt.com)  
 
-**Key Features**  
-- Create, Edit, Delete blog posts  
-- Rich text editor integration  
-- User authentication & comments (planned)  
-- Clean REST API with Mongoose schemas
+**Key Features**
+- Real-time messaging using Socket.io  
+- User authentication (JWT/session handling)  
+- Online users tracking  
+- Responsive UI  
+- Scalable MERN architecture  
 
-**Tech Stack** → React • Node.js • Express • MongoDB
+**Tech Stack** → React • Node.js • Express • MongoDB • Socket.io • JWT
 
----
 
 ###  Let's Connect
 
