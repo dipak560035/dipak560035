@@ -6,9 +6,7 @@
 
   <br/>
 
-  <!-- Visitor badge + streak -->
-  <img src="https://komarev.com/ghpvc/?username=dipak560035&label=Profile+Views&color=6b7280&style=flat-square" alt="Profile views" />
-  &nbsp;&nbsp;
+ 
 
 </div>
 
