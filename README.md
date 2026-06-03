@@ -159,11 +159,11 @@ Currently building with:
 
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipak560035&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=818cf8&currStreakLabel=818cf8" />
 
-</div>
+</div> -->
 
 ---
 
