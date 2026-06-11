@@ -66,7 +66,7 @@ const dipakSah = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
@@ -91,7 +91,7 @@ A modern transport and mobility solution designed for Nepal's urban commuters �
 </td>
 <td width="50%" valign="top">
 
-### 🛒 MERN E-Commerce Platform
+### 🛒 HeavenCraft E-Commerce Platform
 **Full-Featured Production Store**
 
 End-to-end e-commerce system with admin controls, secure payments flow, and a polished storefront experience.
