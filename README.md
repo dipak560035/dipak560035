@@ -25,7 +25,7 @@ const dipakSah = {
   title:        "Full-Stack MERN Developer",
   credential:   "Registered Computer Engineer — NEC (Nepal Engineering Council)",
   location:     "Kathmandu, Nepal 🇳🇵",
-  portfolio:    "https://dipakportfolio-iota.vercel.app/",
+  portfolio:    "https://erdipak.com.np",
   focus:        ["Scalable APIs", "Clean Architecture", "Real-Time Systems"],
   currentlyLearning: ["Next.js", "TypeScript (Advanced)", "Docker", "System Design"],
   philosophy:   "Build systems that scale. Write code that lasts.",
